@@ -1,4 +1,4 @@
- Hi there 👋 I'm Adam
+### Hi there 👋 I'm Adam
 #### a budding data scientist.
 ![a budding data analyst/scientist.](images/dev-working_rounded.gif)
 
@@ -49,10 +49,10 @@ I am from the UK and currently living in Medellin, Colombia. I am fascinated wit
 <details>
     <summary><b>✨About Me</b></summary>
 
-    I'm from Wales, UK currently living in Medellín, Colombia. I have a love for data and analysis.  I have been a civil engineer and a teacher but finally found my passion in data.</p>
+    I'm from Wales, UK currently living in Medellín, Colombia.  
+    I have a love for data and analysis.    
+    I have been a civil engineer and a teacher but finally found my passion in data.</p>
 </details>
-
-
  
 ## Contact me 
 <div align="center">
@@ -61,6 +61,7 @@ email: arwharris86@gmail.com
 See my portfolio website   
 https://aharris86.github.io/
 
+ <!--Medium-->
 <a href="https://medium.com/@zluvsand">
     <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/>
 </a>
@@ -75,3 +76,4 @@ https://aharris86.github.io/
     <img height="50" src=images/website_logo.png"/>
 </a>
 </div>
+
