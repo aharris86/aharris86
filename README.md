@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Adam
 #### a budding data scientist.
-![a budding data analyst/scientist.](images/dev-working_rounded.gif)
+![a budding data analyst/scientist.](images/dev-working.gif)
 
 I am from the UK and currently living in Medellin, Colombia. I am fascinated with anything to do with data. I try to use my experience as a civil engineer and teacher to improve my data science skills.
 
@@ -73,7 +73,7 @@ https://aharris86.github.io/
 
 <!--Website-->
 <a href="https://aharris86.github.io/">
-    <img height="50" src=images/website_logo.png"/>
+    <img height="50" src=images/web_logo.png"/>
 </a>
 </div>
 
