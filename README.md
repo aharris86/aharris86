@@ -68,7 +68,7 @@ https://aharris86.github.io/
 </a>
 
 <!--Linked in-->
-<a href="https://www.linkedin.com/in/zluvsand/">
+<a href="https://www.linkedin.com/in/adam-harris-data/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
