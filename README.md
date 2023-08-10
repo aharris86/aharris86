@@ -44,7 +44,7 @@ I am from the UK and currently living in Medellin, Colombia. I am fascinated wit
 </a>
 </div>
 
-![Metrics](https://metrics.lecoq.io/aharris86?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=America%2FBogota)
+
 
 <details>
     <summary><b>✨About Me</b></summary>
